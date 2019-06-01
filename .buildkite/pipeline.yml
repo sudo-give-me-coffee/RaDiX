@@ -1,0 +1,3 @@
+steps:
+  - name: "RaDiX - Build ISO :carrot: :rocket:"
+    command: "bash code/build/build-iso.sh"
