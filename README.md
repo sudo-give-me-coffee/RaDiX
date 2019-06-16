@@ -112,3 +112,4 @@ O **RaDiX** conta com uma **preparação exclusiva** para a execução de aplica
 ## **Links**
 [![NotABug](https://notabug.org/img/favicon.png)](https://notabug.org/rauldipeas/RaDiX)
 [![Gitter](https://cdn.androidcrew.com/logos/im.gitter.gitter-logo.png)](https://gitter.im/radix-community/support)
+[![Mercado Pago](https://raichu-uploads.s3.amazonaws.com/company_58bef1c4-45b5-4f13-997f-1127f36fa795.jpg)](https://radix.ws/sign)
