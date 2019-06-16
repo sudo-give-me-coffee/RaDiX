@@ -29,13 +29,13 @@ Execute as mais diversas atividades, sem lentidões ou travamentos e compartilhe
 
 ## **Requisitos mínimos:**
 
-### **Processador:** AMD/Intel Dual Core 1.0Ghz
+#### **Processador:** AMD/Intel Dual Core 1.0Ghz
 
-### **Memória:** 2Gb DDR3
+#### **Memória:** 2Gb DDR3
 
-### **Vídeo:** APU/GPU 128Mb
+#### **Vídeo:** APU/GPU 128Mb
 
-### **Armazenamento:** 20Gb de espaço livre em disco
+#### **Armazenamento:** 20Gb de espaço livre em disco
 
 ## **Imagens**
 #### :camera: [**Google Photos**](https://photos.app.goo.gl/fyj6PbtzuM1f5KUa7)
@@ -108,3 +108,7 @@ O **RaDiX** conta com uma **preparação exclusiva** para a execução de aplica
 
 ### **Quire**
 [![Quire](https://radix.ws/images/quire-banner.png)](https://quire.io/w/RaDiX)
+
+## **Links**
+[![NotABug](https://notabug.org/img/favicon.png)](https://notabug.org/rauldipeas/RaDiX)
+[![Gitter](https://cdn.androidcrew.com/logos/im.gitter.gitter-logo.png)](https://gitter.im/radix-community/support)
