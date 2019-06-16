@@ -50,7 +50,7 @@ Basta digitar o nome do aplicativo na busca e selecionar os respectivos [**pacot
 
 Caso seu aplicativo favorito não esteja disponível, você pode fazer uma solicitação no nosso [**quadro de feedback**](https://quire.io/w/RaDiX).
 
-Acesse o repositório de desenvolvimendo no [**NotABug**](https://notabug.org/rauldipeas/radix-apps/).
+Acesse o repositório de desenvolvimendo no [**GitHub**](https://github.com/rauldipeas/radix-apps/).
 
 [![REAPER](https://radix.ws/images/apps/cockos-reaper.svg)](https://www.reaper.fm/)
 [![Resolve](https://radix.ws/images/apps/resolve.svg)](https://www.blackmagicdesign.com/products/davinciresolve/)
@@ -110,6 +110,5 @@ O **RaDiX** conta com uma **preparação exclusiva** para a execução de aplica
 [![Quire](https://radix.ws/images/quire-banner.png)](https://quire.io/w/RaDiX)
 
 ## **Links:**
-[![NotABug](https://notabug.org/img/favicon.png)](https://notabug.org/rauldipeas/RaDiX)
 [![Gitter](https://cdn.androidcrew.com/logos/im.gitter.gitter-logo.png)](https://gitter.im/radix-community/support)
-[![Mercado Pago](https://radix-website-new.netlify.com/images/mercadopago.jpg)](https://radix.ws/sign)
+[![Mercado Pago](https://radix.ws/images/mercadopago.jpg)](https://radix.ws/sign)
