@@ -20,9 +20,9 @@ Execute as mais diversas atividades, sem lentidões ou travamentos e compartilhe
 #### :mortar_board: [**Leia a documentação**](https://docs.radix.ws/)
 
 ## **Assista aos reviews:**
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/xUNIi9usZZA/0.jpg)](https://youtu.be/xUNIi9usZZA)
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/KAlKQPu0E-s/0.jpg)](https://youtu.be/KAlKQPu0E-s)
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/A4DwYmOFaEo/0.jpg)](https://youtu.be/A4DwYmOFaEo)
+[![Diolinux](http://img.youtube.com/vi/xUNIi9usZZA/0.jpg)](https://youtu.be/xUNIi9usZZA)
+[![Juliano Ramos](http://img.youtube.com/vi/KAlKQPu0E-s/0.jpg)](https://youtu.be/KAlKQPu0E-s)
+[![Toca do Tux](http://img.youtube.com/vi/A4DwYmOFaEo/0.jpg)](https://youtu.be/A4DwYmOFaEo)
 
 ## **Leia o review do blog:**
 [![Linux Centro](https://radix.ws/images/LinuxCentro-1.png)](https://linuxcentro.com.br/linux/conheca-o-radix-linux/)
@@ -87,7 +87,7 @@ O **RaDiX** conta com uma **preparação exclusiva** para a execução de aplica
 
 [![Thunar](https://radix.ws/images/apps/system-file-manager.svg)](https://docs.xfce.org/xfce/thunar/start)
 [![Mousepad](https://radix.ws/images/apps/mousepad.svg)](https://git.xfce.org/apps/mousepad/)
-[![qPDFView](https://radix.ws/images/apps/flameshot.svg)](https://launchpad.net/qpdfview)
+[![qPDFView](https://radix.ws/images/apps/qpdfview.svg)](https://launchpad.net/qpdfview)
 [![Compiz](https://radix.ws/images/apps/compiz.svg)](http://www.compiz.org/)
 [![Gestos](https://radix.ws/images/apps/libinput-gestures.svg)](https://gitlab.com/cunidev/gestures)
 [![US Controls](https://radix.ws/images/apps/qjackctl.svg)](https://help.ubuntu.com/community/UbuntuStudio/UbuntuStudioControls)
