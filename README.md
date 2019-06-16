@@ -107,4 +107,4 @@ O **RaDiX** conta com uma **preparação exclusiva** para a execução de aplica
 ### _Junte-se aos usuários do RaDiX e nos ajude a construir um sistema cada vez melhor!_
 
 ### **Quire**
-![Quire](https://radix.ws/images/quire-banner.png)
+[![Quire](https://radix.ws/images/quire-banner.png)](https://quire.io/w/RaDiX)
