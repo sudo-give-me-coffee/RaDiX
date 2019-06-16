@@ -1,4 +1,4 @@
-# **RaDiX**
+# ![Logo](https://radix.ws/images/logo.png) **RaDiX**
 ### _Viva mais, configure menos!_
 
 
