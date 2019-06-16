@@ -1,5 +1,5 @@
 # ![Logo](https://radix.ws/images/logo.png) **RaDiX**
-### _Viva mais, configure menos!_
+_Viva mais, configure menos!_
 
 
 ## :bulb: **Conheça:**
@@ -42,7 +42,7 @@ Execute as mais diversas atividades, sem lentidões ou travamentos e compartilhe
 
 ## **Aplicativos adicionais:**
 
-### _Conheça alguns dos aplicativos adicionais no repositório do **RaDiX**._
+_Conheça alguns dos aplicativos adicionais no repositório do **RaDiX**._
 
 Através do [**Synaptic**](https://www.nongnu.org/synaptic/), você pode instalar tudo no **RaDiX**.
 
@@ -60,7 +60,7 @@ Acesse o repositório de desenvolvimendo no [**GitHub**](https://github.com/raul
 [![ALSA Mixer](https://radix.ws/images/apps/gnome-alsamixer-icon.svg)](https://launchpad.net/gnome-alsamixer)
 
 ## **Características:**
-### _Conheça as principais características que tornam o RaDiX um sistema operacional único, ideal para suas necessidades._
+_Conheça as principais características que tornam o RaDiX um sistema operacional único, ideal para suas necessidades._
 
 #### :anchor: **Objetivo:**
 
@@ -76,7 +76,7 @@ O **RaDiX** conta com uma **preparação exclusiva** para a execução de aplica
 
 ## **Aplicativos inclusos:**
 
-### _O RaDiX vem com uma seleção bem enxuta de aplicativos, selecionados cuidadosamente, conheça aqui os principais_.
+_O RaDiX vem com uma seleção bem enxuta de aplicativos, selecionados cuidadosamente, conheça aqui os principais_.
 
 [![Midori](https://radix.ws/images/apps/midori.svg)](https://radix.ws/images/apps/midori.svg)
 [![Synaptic](https://radix.ws/images/apps/muon.svg)](https://www.nongnu.org/synaptic/)
@@ -94,19 +94,19 @@ O **RaDiX** conta com uma **preparação exclusiva** para a execução de aplica
 
 ## **Curiosidades:**
 
-### - _Mais de **140** pacotes compilados_
+ - _Mais de **140** pacotes compilados_
 
-### - _Mais de **2343409** linhas de código_
+ - _Mais de **2343409** linhas de código_
 
-### - _Mais de **1825** noites sem dormir_
+ - _Mais de **1825** noites sem dormir_
 
-### - _Mais de **2000** usuários satisfeitos_
+ - _Mais de **2000** usuários satisfeitos_
 
 ## **Participe do nosso quadro de feedback:**
 
-### _Junte-se aos usuários do RaDiX e nos ajude a construir um sistema cada vez melhor!_
+_Junte-se aos usuários do RaDiX e nos ajude a construir um sistema cada vez melhor!_
 
-### **Quire**
+### [**Quire**](https://quire.io/w/RaDiX)
 [![Quire](https://radix.ws/images/quire-banner.png)](https://quire.io/w/RaDiX)
 
 ## **Links:**
