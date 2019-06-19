@@ -49,7 +49,7 @@ Execute as mais diversas atividades, sem lentidões ou travamentos e compartilhe
 
 ## **Imagens:**
 
-### 📷 [**Google Photos**](https://photos.app.goo.gl/fyj6PbtzuM1f5KUa7)
+### 📷 [**Imgur**](https://imgur.com/a/63lHGhv)
 
 ## **Aplicativos adicionais:**
 
