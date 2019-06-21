@@ -7,5 +7,5 @@ jobs:
       - checkout
 
       - run:
-          name: Build ISO :carrot: :rocket:
+          name: Build ISO
           command: bash code/build/build-iso.sh
