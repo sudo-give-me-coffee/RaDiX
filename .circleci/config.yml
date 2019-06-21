@@ -1,0 +1,11 @@
+version: 2
+jobs:
+  build:
+    machine: true
+
+    steps:
+      - checkout
+
+      - run:
+          name: Build ISO :carrot: :rocket:
+          command: bash code/build/build-iso.sh
