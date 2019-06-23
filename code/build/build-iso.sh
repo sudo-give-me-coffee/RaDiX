@@ -12,10 +12,8 @@ sudo mv squashfs-root edit
 
 # Montagem do ambiente chroot
 
-sudo cp -rv /run edit/run
-#sudo mount --bind edit/run/ edit/run
-sudo cp -rv /dev edit/dev
-#sudo mount --bind /dev/ edit/dev
+sudo mount --bind /run/ edit/run
+sudo mount --bind /dev/ edit/dev
 sudo chroot edit mount -t proc none /proc
 sudo chroot edit mount -t sysfs none /sys
 sudo chroot edit mount -t devpts none /dev/pts
