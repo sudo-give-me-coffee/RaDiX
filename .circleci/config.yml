@@ -1,8 +1,9 @@
 version: 2
 jobs:
   build:
-    machine: true
-    steps:
+    docker:
+      - image: circleci/ubuntu:bionic
+      steps:
       - checkout
       - run:
           name: RaDiX - Build ISO
