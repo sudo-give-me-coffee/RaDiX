@@ -1,6 +1,8 @@
 version: 2
 machine: true
+jobs:
  steps:
+      - checkout
       - run:
           name: RaDiX - Build ISO
           command: bash code/build/build-iso.sh
