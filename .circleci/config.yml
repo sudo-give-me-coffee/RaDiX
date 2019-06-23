@@ -1,7 +1,8 @@
 version: 2
-machine: true
 jobs:
- steps:
+  build:
+    machine: true
+    steps:
       - checkout
       - run:
           name: RaDiX - Build ISO
