@@ -16,22 +16,14 @@ sudo cp -rv /run edit/run
 #sudo mount --bind edit/run/ edit/run
 sudo cp -rv /dev edit/dev
 #sudo mount --bind /dev/ edit/dev
-sudo cp -rv /proc edit/
-sudo chroot edit mount -t proc none proc
-#sudo chroot edit mount -t proc none /proc
-sudo cp -rv /sys edit/
-sudo chroot edit mount -t sysfs none sys
-#sudo chroot edit mount -t sysfs none /sys
-sudo cp -rv /dev/pts edit/dev/
-sudo chroot edit mount -t devpts none dev/pts
-#sudo chroot edit mount -t devpts none /dev/pts
+sudo chroot edit mount -t proc none /proc
+sudo chroot edit mount -t sysfs none /sys
+sudo chroot edit mount -t devpts none /dev/pts
 sudo chroot edit sh -c "export HOME=/root"
 sudo chroot edit sh -c "export LC_ALL=C"
 sudo chroot edit sh -c "dbus-uuidgen > /var/lib/dbus/machine-id"
 sudo chroot edit dpkg-divert --local --rename --add /sbin/initctl
-sudo cp -rv /bin/true edit/bin
-sudo chroot edit ln -s bin/true sbin/initctl
-#sudo chroot edit ln -s /bin/true /sbin/initctl
+sudo chroot edit ln -s /bin/true /sbin/initctl
 
 # Execução do script de criação do sistema
 
