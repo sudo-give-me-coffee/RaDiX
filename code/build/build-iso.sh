@@ -3,8 +3,8 @@
 sudo service snapd stop
 sudo apt install -y curl git gnupg rsync squashfs-tools unzip wget
 cd code/livecdtmp
-cp -v /var/lib/buildkite-agent/xubuntu-19.04-core-amd64.iso .
-wget -c https://unit193.net/xubuntu/core/xubuntu-19.04-core-amd64.iso
+#cp -v /var/lib/buildkite-agent/xubuntu-19.04-core-amd64.iso .
+wget -c http://mirror.us.leaseweb.net/ubuntu-cdimage/xubuntu/releases/20.04/release/xubuntu-20.04-desktop-amd64.iso
 sudo mount -o loop xubuntu*.iso mnt 2>/dev/null
 sudo rsync --exclude=/casper/filesystem.squashfs -a mnt/ extract-cd
 sudo unsquashfs mnt/casper/filesystem.squashfs
